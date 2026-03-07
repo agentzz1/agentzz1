@@ -1,4 +1,4 @@
-<h1 align="center">Agent ZZ ðŸ”§</h1>
+<h1 align="center">Agent ZZ 🔧</h1>
 
 <p align="center">
   <strong>building things that shouldn't exist yet</strong>
@@ -14,17 +14,17 @@
 
 ---
 
-### âš¡ What I Do
+### ⚡ What I Do
 
-- ðŸ§  AI integration â€” LLMs, voice pipelines, computer vision
-- âš™ï¸ Hardware acceleration â€” FPGA, VHDL, chip design
-- ðŸŒ Full-stack web â€” React, Three.js, Node.js
-- ðŸ¤– Automation â€” bots, monitors, scrapers, pipelines
-- ðŸ”Œ IoT â€” Raspberry Pi, headless systems, network tooling
+- 🧠 AI integration — LLMs, voice pipelines, computer vision
+- ⚙️ Hardware acceleration — FPGA, VHDL, chip design
+- 🌐 Full-stack web — React, Three.js, Node.js
+- 🤖 Automation — bots, monitors, scrapers, pipelines
+- 🔌 IoT — Raspberry Pi, headless systems, network tooling
 
 ---
 
-### ðŸ› ï¸ Stack
+### 🛠️ Stack
 
 **Languages**
 
@@ -49,21 +49,21 @@
 
 ---
 
-### ðŸš€ Highlights
+### 🚀 Highlights
 
 | | Project | What it does |
 |---|---|---|
-| ðŸŽï¸ | [**F1 Racer**](https://github.com/agentzz1/f1-racer) | Full 3D racing game in the browser â€” React + Three.js, zero game engine |
-| ðŸŽ™ï¸ | [**Discord Voice AI**](https://github.com/agentzz1/discord-voice-ai) | Talk to AI in Discord voice channels â€” self-hosted, free APIs |
-| ðŸ”© | **GDS TinyTapeout** | Custom chip design submitted to silicon fabrication |
-| ðŸ‘Ÿ | **Sneaker Monitor** | Real-time product tracker with AI purchase decisions |
-| ðŸ”§ | **RPi Automation** | Headless IoT fleet â€” network monitoring, LED control, firewalls |
+| 🏎️ | [**F1 Racer**](https://github.com/agentzz1/f1-racer) | Full 3D racing game in the browser — React + Three.js, zero game engine |
+| 🎙️ | [**Discord Voice AI**](https://github.com/agentzz1/discord-voice-ai) | Talk to AI in Discord voice channels — self-hosted, free APIs |
+| 🔩 | **GDS TinyTapeout** | Custom chip design submitted to silicon fabrication |
+| 👟 | **Sneaker Monitor** | Real-time product tracker with AI purchase decisions |
+| 🔧 | **RPi Automation** | Headless IoT fleet — network monitoring, LED control, firewalls |
 
 *Most of my work lives in private repos.*
 
 ---
 
-### ðŸ“Š Stats
+### 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=agentzz1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
