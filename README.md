@@ -67,7 +67,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=agentzz1&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agentzz1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
 </p>
 
 ---
