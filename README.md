@@ -9,7 +9,7 @@ I work across Python and TypeScript tooling, full-stack prototypes, AI-assisted 
 - [RealNews](https://github.com/agentzz1/realnews) - AI-assisted credibility checker for headlines, claims, and links built with Next.js and Supabase.
 - [F1 Racer](https://github.com/agentzz1/f1-racer) - Browser-based Formula 1 game built with React and Three.js, with custom gameplay systems and 3D rendering.
 - [Discord Voice AI](https://github.com/agentzz1/discord-voice-ai) - Self-hosted Discord voice bot with speech-to-text, LLM replies, and text-to-speech.
-- [GDS TinyTapeout](https://github.com/agentzz1/GDS_tinytapeout) - Tiny Tapeout digital design experiment for exploring chip-oriented workflows.
+
 
 ## Tech Focus
 
