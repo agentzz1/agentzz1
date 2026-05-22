@@ -2,7 +2,7 @@
 
 M.Sc. Electrical Engineering @ KIT building AI tooling, automation, and hardware-software systems.
 
-I work across Python and TypeScript tooling, full-stack prototypes, AI-assisted workflows, and digital design. Recent projects span credibility-checking apps, browser-based 3D systems, voice agents, and hardware experiments that bridge software and silicon-oriented thinking.
+
 
 ## Featured Projects
 
